@@ -1,0 +1,23 @@
+name: didi
+favicon: null
+layout_spectrum: 0.34996177698485553
+typography_spectrum: 0.6466586519964039
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.45540175563655794
+  lightness: 0.8008584482595325
+  saturation: 0.6801035166718066
+  rhythmicContrast: 0.041811640840023756
+purpose: []
